@@ -55,8 +55,6 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
-Elbette! İşte React Native Todo Uygulaması projesi için Türkçe bir README:
-
 React Native Todo Uygulaması
 Bu, React Native kullanılarak oluşturulmuş basit bir mobil yapılacaklar listesi uygulamasıdır. Uygulama, yapılacaklar listesine yeni görevler eklemenizi, listelemenizi ve silebilmenizi sağlar.
 
