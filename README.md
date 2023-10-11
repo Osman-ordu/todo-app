@@ -1,9 +1,10 @@
 
-React Native To-Do Application
+# React Native To-Do Application
 
 This is a simple mobile to-do list application created using React Native. The application allows you to add, list, and delete tasks from your to-do list.
 
-Project Structure
+##  Project Structure
+
 The project is organized as follows:
 
 ```shell
