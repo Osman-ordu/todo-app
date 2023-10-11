@@ -56,59 +56,61 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 -------------------------------------------------------------------------------------------------------------------------------------
 
 
+```
+
 React Native Todo Uygulaması
 Bu, React Native kullanılarak oluşturulmuş basit bir mobil yapılacaklar listesi uygulamasıdır. Uygulama, yapılacaklar listesine yeni görevler eklemenizi, listelemenizi ve silebilmenizi sağlar.
 
-İçindekiler
-Proje Yapısı
-Bileşenler
-Başlarken
-Katkıda Bulunma
-Lisans
 Proje Yapısı
 Proje şu şekilde düzenlenmiştir:
 
-markdown
-Copy code
-- components/
-  - header.js
-  - todoItem.js
-  - addTodo.js
-- App.js
-header.js: Bu bileşen uygulamanın başlığını ekranın en üstünde görüntüler, "My Todos".
+```
 
-todoItem.js: Bu bileşen tek bir yapılacak öğesini temsil eder.
+components/
+header.js
+todoItem.js
+addTodo.js
+App.js
+```
+Proje dosyalarınız bu şekilde düzenlenmiştir:
 
-addTodo.js: Bu bileşen yeni görevler eklemenizi sağlar.
+```
 
-Bileşenler
-Başlık (Header)
-header.js bileşeni, uygulamanın başlığını ekranın üst kısmında "My Todos" olarak gösterir.
+components/: Bu klasör, uygulamanızın bileşenlerini içerir.
 
-Yapılacak Öğe (TodoItem)
-todoItem.js bileşeni, bireysel yapılacak öğeleri görüntülemekten sorumludur. Bir görevi işaretlemek için üzerine tıklanabilir.
-
-Görev Ekle (AddTodo)
-addTodo.js bileşeni, yapılacaklar listenize yeni görevler eklemenizi sağlar. Görevin açıklamasını girebilir ve "Görev ekle" düğmesine basabilirsiniz.
+header.js: Uygulamanın başlığını görüntüler, "My Todos".
+todoItem.js: Bireysel yapılacak öğeleri temsil eder.
+addTodo.js: Yeni görevler eklemenizi sağlar.
+App.js: Ana uygulama dosyanızdır.
+```
 
 Başlarken
 Bu projeye başlamak için aşağıdaki adımları izleyin:
 
 Bu depoyu yerel makinenize klonlayın.
 
+```
+git clone <repository-url>
+```
+
 Geliştirme ortamınızda React Native'in kurulu olduğundan emin olun.
 
 Komut istemcinizde proje dizinine gidin ve aşağıdaki komutu kullanarak gerekli bağımlılıkları yükleyin:
 
-Copy code
+```
 npm install
+```
+
 Uygulamayı bir emülatörde veya fiziksel bir cihazda çalıştırmak için aşağıdaki komutu kullanın:
 
-sql
-Copy code
+```
 npm start
+```
+
 Katkıda Bulunma
 Bu projeye katkıda bulunmak isterseniz, lütfen bir "pull request" göndermek veya bir sorun açmak konusunda çekinmeyin. Görüşlerinizi ve fikirlerinizi bekliyoruz.
 
 Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için LICENSE.md dosyasına bakınız.
+Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE.md dosyasına bakınız.
+```
+
