@@ -9,7 +9,7 @@ Contributing
 License
 Project Structure
 The project is organized as follows:
-
+<code>
 markdown
 Copy code
 - components/
@@ -17,6 +17,7 @@ Copy code
   - todoItem.js
   - addTodo.js
 - App.js
+</code>
 header.js: This component renders the app's header.
 todoItem.js: This component represents a single to-do item.
 addTodo.js: This component allows you to add new tasks.
