@@ -103,6 +103,11 @@ Bu projeye katkıda bulunmak isterseniz, lütfen bir "pull request" göndermek v
 Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE.md dosyasına bakınız.
 
+************************************************************************************************************************************************************* 
+
+
+
+
 
 ![IMG_C142FE3AD3FD-1](https://github.com/Osman-ordu/todo-app/assets/92692879/88079f91-d734-40dd-8fd0-8b2c2f835472)
 
