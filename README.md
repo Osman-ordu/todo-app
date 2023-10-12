@@ -1,3 +1,14 @@
+![IMG_C142FE3AD3FD-1](https://github.com/Osman-ordu/todo-app/assets/92692879/88079f91-d734-40dd-8fd0-8b2c2f835472)
+
+
+![IMG_76BF71B4098E-1](https://github.com/Osman-ordu/todo-app/assets/92692879/d3bd3f4e-686e-4ee3-a5c3-738628a5b103)
+
+
+![IMG_A28A67A05103-1](https://github.com/Osman-ordu/todo-app/assets/92692879/228dc155-4bbe-4c9e-870c-6225ac511b3c)
+
+
+![IMG_2EC38956F686-1](https://github.com/Osman-ordu/todo-app/assets/92692879/f997cf7d-ce2d-4fec-8f3a-ab12f7272cc8)
+
 
 # React Native To-Do Application
 
